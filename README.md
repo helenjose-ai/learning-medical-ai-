@@ -16,8 +16,7 @@ Learning AI and Python to work at the intersection of medical imaging and artifi
 - Work in health-tech (Target: Qure.ai)
 
 ## 📫 Connect
-- LinkedIn: www.linkedin.com/in/
-helen-jose-587491387
+- LinkedIn: www.linkedin.com/in/helen-jose-587491387
 
 
 ---
