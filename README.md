@@ -1,2 +1,25 @@
-# learning-medical-ai-
-My journey learning AI and Python for healthcare applications
+# Learning Medical AI 🏥🤖
+
+Hi! I'm Helen Jose, a 2nd-year Medical Radiology & Imaging Technology student.
+
+## 🎯 Mission
+Learning AI and Python to work at the intersection of medical imaging and artificial intelligence.
+
+## 📚 Currently Learning
+- Python programming
+- AI/ML fundamentals (Coursera: AI For Everyone)
+- Medical image analysis
+
+## 🚀 Goals
+- Build projects in medical imaging AI
+- Contribute to making healthcare accessible
+- Work in health-tech (Target: Qure.ai)
+
+## 📫 Connect
+- LinkedIn: www.linkedin.com/in/
+helen-jose-587491387
+
+
+---
+*Day 1: 01-10-2025*
+*"The journey of a thousand miles begins with a single step"*
